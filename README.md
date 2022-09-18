@@ -4,8 +4,11 @@ Social Website in Jakarta EE (old Java EE)
 
 User can:
 •	register
-•	login
-•	sort subjects
-•	give thumb up/down
-•	add to favourite
 
+•	login
+
+•	sort subjects
+
+•	give thumb up/down
+
+•	add to favourite
