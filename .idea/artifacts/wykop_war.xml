@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wykop:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>wykop</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="wykop-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="wykop:war exploded" />
+    </root>
+  </artifact>
+</component>
